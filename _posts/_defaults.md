@@ -1,6 +1,5 @@
 ---
-title:
-categories:
-date:
+categories: 
 ---
+
 sddssdddsdsddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss<br />
