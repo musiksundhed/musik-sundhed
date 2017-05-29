@@ -2,4 +2,9 @@
 layout: post
 title: Test blog post Lungeforeningen
 date: 2017-05-29 05:11
+categories: []
+author_staff_member: ''
 ---
+
+
+dnaodnaodasiodjiosajdoisajdoisjdoisjdiosjdiasjdoijasdoisajdisajdiosajdoisajdaodjiojajdssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
