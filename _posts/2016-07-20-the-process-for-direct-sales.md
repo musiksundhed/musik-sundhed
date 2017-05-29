@@ -1,11 +1,9 @@
 ---
 title: Nyt blog indlæg
-date: '2016-07-20T00:00:00.000+00:00'
+date: 2016-07-20 00:00:00 Z
 author_staff_member: Lasse Dupont
 layout: post
-categories: []
 ---
-
 
 aasdasdsadsadsadsadsadsadsadsadsadsadasdasdsadasdsadsadsadsadsadsadsadsadsadas asdasasdsad asdasdasd asdasdasd asdasdasd asdasd asdasd sddasds sddsd asdasd d asdasdasdasdsdsdasdasdasdasddsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsdas
 
