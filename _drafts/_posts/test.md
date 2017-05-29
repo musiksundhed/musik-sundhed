@@ -1,5 +1,6 @@
 ---
-layout: page
 title: test
-date: '2017-05-29T20:43:02+00:00'
+date: 2017-05-29 20:43:02 Z
+layout: page
 ---
+
