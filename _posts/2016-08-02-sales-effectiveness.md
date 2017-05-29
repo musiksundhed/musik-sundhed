@@ -1,12 +1,11 @@
 ---
 title: Test blog post medicin
-date: '2016-08-02T00:00:00.000+00:00'
+date: 2016-08-02 00:00:00 Z
 categories:
 - Medicin
 author_staff_member: Lasse Dupont
 layout: post
 ---
-
 
 dgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggf ![American River](https://source.unsplash.com/random/1500x1146)
 
