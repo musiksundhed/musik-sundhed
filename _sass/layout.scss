@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans|Open+Sans');
 
 h1, h2, h3, h4  {
-	font-family: 'open sans', sans-serif;
+	font-family: 'Droid Sans', sans-serif;
 }
 
 body {
@@ -11,13 +11,16 @@ body {
 }
 
 p  {
-	font-family: 'Droid Sans', sans-serif;
-	font-size: 1.2em;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.1em;
+	color: #000;
+	line-height: 1.7em;
 }
 
 li {
 list-style-type:none;
 }
+
 
 .latest-blogpost a {
 	font-family: 'Droid Sans', sans-serif;
@@ -27,6 +30,9 @@ list-style-type:none;
 	line-height: 1.6;
 	}
 
+.blog-post {
+	margin-bottom: 5%;
+}
 
 
 .container, .text-container {
@@ -64,6 +70,7 @@ header {
 		text-decoration: none;
 		z-index: 1;
 		position: relative;
+		font-family: 'Droid Sans', sans-serif;
 
 		&:hover {
 			text-decoration: none;
@@ -93,7 +100,7 @@ header {
 
 .screenshot{
 	max-width: 100%;
-	max-height: 60vh;
+	max-height: auto;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -121,9 +128,16 @@ section + section {
 }
 
 .page h2 {
-	text-align: center;
-	font-family: 'Droid Sans', sans-serif;
-}
+	color: #000;
+   	text-align: center;
+    font-size: 2em;
+    margin-bottom: 20%;
+    font-family: 'Open Sans', sans-serif;
+   	max-width: 1300px;
+    margin-top: 8%;
+    }
+
+
 
 blockquote {
 	padding: 18px 25px;

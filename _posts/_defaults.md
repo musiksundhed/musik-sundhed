@@ -1,5 +1,5 @@
 ---
-categories: 
-author_staff_member: 
+title:
+categories:
+date:
 ---
-

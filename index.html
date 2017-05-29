@@ -1,8 +1,7 @@
 ---
-title: M
-description: Mangler
+title: Tænketanken Musik & Sundhed
+description: Et innovativt udviklingsforum på tværs af faggrupper inden for musik og sundhed.
 ---
-
 <section class="hero">
 	<div class="text-container">
 		<h2 class="subtext editable">Ønsker du at være
@@ -54,18 +53,20 @@ I samarbejde med forskere, læger, patienter, politikere m.fl. skaber vi fremtid
 		<div class="container latest-blogpost flex">
 			
 				<div class="text editable" style="color: #fff;">
-				<h2>Gå til de <strong>seneste</strong> indlæg</h2>
+				<h2>Gå til de <strong>seneste</strong> indlæg -</h2>
 				
-							{% for post in site.posts limit:3  %}
+							{% for post in site.posts limit:1  %}
 {% if forloop %}
   <li>
-    <a href="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    <a href="blog/" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
   </li>
 {% endif %}
 {% endfor %}
 			</div>
+
 		</div>
 	</section>
+	
 
 
 
