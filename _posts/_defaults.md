@@ -1,6 +1,5 @@
 ---
-title:
-categories:
-date:
+categories: 
 ---
+
 @import "{{ site.theme }}"
