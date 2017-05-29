@@ -1,5 +1,6 @@
 ---
-categories: 
+title:
+categories:
+date:
 ---
-
-sddssdddsdsddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss<br />
+@import "{{ site.theme }}"
