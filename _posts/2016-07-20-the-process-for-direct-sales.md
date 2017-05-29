@@ -1,11 +1,13 @@
 ---
 title: Nyt blog indlæg
-date: 2016-07-20 00:00:00 Z
+date: '2016-07-20T00:00:00.000+00:00'
 author_staff_member: Lasse Dupont
 layout: post
+categories: []
 ---
 
-aasdasdsadsadsadsadsadsadsadsadsadsadasdasdsadasdsadsadsadsadsadsadsadsadsadas
+
+aasdasdsadsadsadsadsadsadsadsadsadsadasdasdsadasdsadsadsadsadsadsadsadsadsadas asdasasdsad asdasdasd asdasdasd asdasdasd asdasd asdasd sddasds sddsd asdasd d asdasdasdasdsdsdasdasdasdasddsasdasdasdasdasdasdasdasdasdasdasdasdasdasdadsdas
 
 ![Checkmate](https://source.unsplash.com/random/1500x1145)
 
