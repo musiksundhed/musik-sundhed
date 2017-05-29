@@ -1,5 +1,5 @@
 ---
-name:
-position:
-image_path:
+name: 
+image_path: 
 ---
+
